@@ -6,6 +6,7 @@ Simple WPI is a lightweight and flexible automatic software installer for Window
 
 ## 🚀 Key Features
 
+* **Multilingual Interface:** Full support for **English**, **Russian**, **Ukrainian**, and **Belarusian** languages (switchable in settings).
 * **"Silent" installation:** Complete automation of the software installation process without extra clicks, dialog boxes, or confirmations.
 * **Optional run as administrator:** This function can be configured in the program settings. When enabled, Simple WPI requests elevated privileges (UAC), ensuring that the installed applications have sufficient rights to write to system folders and the registry.
 * **Automatic architecture selection:** The program independently selects the required architecture for the installers (x86 or x64) depending on the OS architecture.
