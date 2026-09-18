@@ -3,7 +3,7 @@
 Simple WPI is a lightweight and flexible automatic software installer for Windows operating systems. It is designed to deploy the entire required software package in **"silent mode"** (without user intervention), automatically adapting to the OS architecture and intelligently checking for already installed application versions. The program requires no installation and is perfect for running from a USB flash drive or within a WinPE environment.
 
 ![Main Window](MainWindow.jpg)
-
+![Edit Window](EditWindow.jpg)
 ---
 
 ## 🚀 Key Features
